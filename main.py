@@ -27,3 +27,5 @@ if __name__ == '__main__':
             a = float(input("Podaj a:"))
             b = float(input("Podaj b:"))
             print(calculate(a, b, operation))
+            print("Koniec programu")
+
